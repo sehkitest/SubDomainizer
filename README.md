@@ -5,7 +5,7 @@
 
 SubDomainizer is a tool designed to find hidden subdomains and secrets present is either webpage, Github, and external javascripts present in the given URL.
 This tool also finds S3 buckets, cloudfront URL's and more from those JS files which could be interesting like S3 bucket is open to read/write, or subdomain takeover and similar case for cloudfront.
-It also scans inside given folder which contains your files.
+It also have ability to examine inside given folder which contains your files.
 
 ## Cloud Storage Services Supported:
 SubDomainizer can find URL's for following cloud storage services:
